@@ -1,0 +1,14 @@
+streamlit
+PyMuPDF
+rank-bm25
+pandas
+numpy
+networkx
+faiss-cpu
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+tokenizers==0.13.3
+transformers==4.26.1
+sentence-transformers==2.2.2
+matplotlib
